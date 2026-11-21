@@ -1,1 +1,10 @@
-fastapi, uvicorn, mysql-connector-python, requests, python-multipart, pypdf, beautifulsoup4, python-docx, striprtf, mutagen
+fastapi
+uvicorn
+mysql-connector-python
+requests
+python-multipart
+pypdf
+beautifulsoup4
+python-docx
+striprtf
+mutagen
