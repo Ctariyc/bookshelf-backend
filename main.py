@@ -1,4 +1,4 @@
-﻿import os
+import os
 import re
 import uuid
 import shutil
@@ -562,5 +562,6 @@ def get_db():
         database=os.getenv("DB_NAME", "bookshelf_db"),
         ssl_disabled=False
     )
+
 
 
